@@ -1,0 +1,2 @@
+Para que o live Debugger funcione é preciso acessar esse link: http://localhost:8081/debugger-ui
+Isso antes de iniciar no emulador, caso contrário ele abre uma página quebrada
